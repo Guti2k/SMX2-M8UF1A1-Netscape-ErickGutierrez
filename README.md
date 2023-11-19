@@ -20,3 +20,5 @@ Es un empresario y emprendedor estadounidense, conocido por ser una figura clave
 
 <img src="./Fotos/James_H._Clark.jpg" alt="James H.clark" width="200" height="200">
 
+Este navegador ofrece varios servicios:
+* 
