@@ -21,4 +21,10 @@ Es un empresario y emprendedor estadounidense, conocido por ser una figura clave
 <img src="./Fotos/James_H._Clark.jpg" alt="James H.clark" width="200" height="200">
 
 Este navegador ofrece varios servicios:
-* 
+* *Netscape Navigator*: Fue uno de los primeros navegadores web comerciales y desempeñó un papel crucial en la popularización de Internet. 
+
+* *Netscape Enterprise Server*: Era un servidor web de alto rendimiento utilizado por muchas empresas para alojar sus sitios web.
+
+* *Netscape FastTrack Server*: Este servidor estaba diseñado para ser una solución más fácil de usar y estaba dirigido a pequeñas empresas y usuarios individuales.
+
+* *Netscape Certificate Server*: Este servidor proporcionaba servicios de certificación digital y ayudaba en la implementación de tecnologías de seguridad, como SSL.
